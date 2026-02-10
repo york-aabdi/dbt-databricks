@@ -1,0 +1,22 @@
+customer_id,first_name,last_name,email,signup_timestamp,country
+C001,Amina,Hassan,amina.hassan@example.com,2025-01-03 10:15:00,US
+C002,Noah,Ali,noah.ali@example.com,2025-01-05 09:22:00,US
+C003,Liam,Omar,liam.omar@example.com,2025-01-08 14:02:00,CA
+C004,Olivia,Farah,olivia.farah@example.com,2025-01-09 18:11:00,US
+C005,Emma,Abdi,emma.abdi@example.com,2025-01-11 07:45:00,UK
+C006,Ava,Nur,ava.nur@example.com,2025-01-12 12:30:00,US
+C007,Sophia,Khan,sophia.khan@example.com,2025-01-15 16:55:00,AE
+C008,Isabella,Yusuf,isabella.yusuf@example.com,2025-01-18 11:19:00,US
+C009,Mia,Hussein,mia.hussein@example.com,2025-01-20 08:08:00,CA
+C010,Charlotte,Ali,charlotte.ali@example.com,2025-01-22 19:40:00,US
+C011,Amir,Saleh,amir.saleh@example.com,2025-01-25 13:17:00,US
+C012,Yusuf,Ahmed,yusuf.ahmed@example.com,2025-01-27 09:09:00,UK
+C013,Zara,Noor,zara.noor@example.com,2025-01-29 15:33:00,US
+C014,Daniel,Ali,daniel.ali@example.com,2025-02-01 10:10:00,US
+C015,Lucas,Hassan,lucas.hassan@example.com,2025-02-02 17:42:00,CA
+C016,Leah,Omar,leah.omar@example.com,2025-02-04 21:05:00,US
+C017,Ethan,Yusuf,ethan.yusuf@example.com,2025-02-05 06:28:00,US
+C018,Grace,Nur,grace.nur@example.com,2025-02-06 14:14:00,UK
+C019,Henry,Khan,henry.khan@example.com,2025-02-07 12:01:00,US
+C020,Chloe,Farah,chloe.farah@example.com,2025-02-08 18:18:00,AE
+C021,Adam,Abdi,adam.abdi@example.com,2025-02-09 09:50:00,US
